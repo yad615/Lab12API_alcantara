@@ -1,0 +1,6 @@
+@Lab12API_alcantara_HostAddress = http://localhost:5048
+
+GET {{Lab12API_alcantara_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
